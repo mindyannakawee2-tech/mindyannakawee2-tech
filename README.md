@@ -4,7 +4,7 @@ OS
 
 <img src="Tux.png" alt="Descriptive Alt Text" width="200" />
 
-Current Project
+## Current Project
 I'm on a project called **LibreGE** a 2D C++ Game Engine
 
 I'm also making an ARG based on LibreGE too!
